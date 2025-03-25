@@ -10,3 +10,5 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 
 ## QUANTIDADES DE ALUNOS VIA EXCEL 
 [QUANTIDADE ALUNOS EXCELL.xls](https://github.com/user-attachments/files/19451348/QUANTIDADE.ALUNOS.EXCELL.xls)
+
+## QUANTIDADES DE ALUNOS POWER BI

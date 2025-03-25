@@ -13,4 +13,4 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 
 ## QUANTIDADES DE ALUNOS POWER BI
 
-https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/POWEBI/QUANT%20ALUNOS%20POR%20MUN.CAMILAM.pbix?csf=1&web=1&e=HNwCke
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/POWEBI/QUANT%20ALUNOS%20POR%20MUN.CAMILAM.pbix?csf=1&web=1&e=jfxcqD

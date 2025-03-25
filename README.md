@@ -8,5 +8,5 @@ https://www.canva.com/design/DAGfsZElSZU/cVFZNXpHmXP54OjmGZDKrw/edit?utm_content
 ## ATIVIDADE CONTAS 
 https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Shared%20Documents/General/Contas.xlsx?d=w45a03366f84349a08e8e5578ac224ae6&csf=1&web=1&e=9wgLFg
 
-## QUANTIDADES DE ALUNOS VIA EXCELL 
+## QUANTIDADES DE ALUNOS VIA EXCEL 
 [QUANTIDADE ALUNOS EXCELL.xls](https://github.com/user-attachments/files/19451348/QUANTIDADE.ALUNOS.EXCELL.xls)

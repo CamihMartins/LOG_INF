@@ -15,7 +15,7 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/POWEBI/QUANT%20ALUNOS%20POR%20MUN.CAMILAM.pbix?csf=1&web=1&e=jfxcqD
 
-## Power BI, dados abertos e Github ...
+## Dados abertos: Power BI e Github em Dupla... 
 ## POWER BI
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/DASHBOARD%20INFORMATICA%20(1).pbix?csf=1&web=1&e=60PV8I
 

@@ -17,6 +17,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 
 ## QUANTIDADES DE ALUNOS POWER BI
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/INFPOWERBI.pbix?csf=1&web=1&e=QAA08v
+![image](https://github.com/user-attachments/assets/b47c89f1-1b57-401b-b78c-9ee0cd2bd798)
 
 ## Dados abertos: Power BI e Github em Dupla... 
 ## POWER BI

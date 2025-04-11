@@ -22,6 +22,7 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_
 ## Dados abertos: Power BI e Github em Dupla... 
 ## POWER BI
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/DASHBOARD%20INFORMATICA%20(1).pbix?csf=1&web=1&e=60PV8I
+![image](https://github.com/user-attachments/assets/fb9779a4-867d-4144-8924-71888ab42ecb)
 
 ## EXCEL
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/INF%20TRABALHO1%201.xlsx?d=w2f39043ba8bc488a89a748dc0357723a&csf=1&web=1&e=6S2Wpe

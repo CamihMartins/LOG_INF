@@ -8,6 +8,8 @@ https://www.canva.com/design/DAGfsZElSZU/cVFZNXpHmXP54OjmGZDKrw/edit?utm_content
 ## ATIVIDADE CONTAS 
 https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Shared%20Documents/General/Contas.xlsx?d=w45a03366f84349a08e8e5578ac224ae6&csf=1&web=1&e=9wgLFg
 Meus gastos- atividade informatica .xlsx
+![image](https://github.com/user-attachments/assets/e29c8fc5-22da-4cb7-9b35-5186404cdf08)
+
 
 ## QUANTIDADES DE ALUNOS VIA EXCEL 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/Ficheiros%20de%20Conversa%20do%20Microsoft%20Teams/QUANTIDADE%20ALUNOS.xls?d=w0a50c378b9964d98a0d3380e944f9de7&csf=1&web=1&e=185Xld

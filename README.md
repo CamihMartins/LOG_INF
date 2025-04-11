@@ -13,6 +13,7 @@ Meus gastos- atividade informatica .xlsx
 
 ## QUANTIDADES DE ALUNOS VIA EXCEL 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/Ficheiros%20de%20Conversa%20do%20Microsoft%20Teams/QUANTIDADE%20ALUNOS.xls?d=w0a50c378b9964d98a0d3380e944f9de7&csf=1&web=1&e=185Xld
+![image](https://github.com/user-attachments/assets/b57425aa-0ed7-461f-a48e-1b34f1ca2103)
 
 ## QUANTIDADES DE ALUNOS POWER BI
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/INFPOWERBI.pbix?csf=1&web=1&e=QAA08v

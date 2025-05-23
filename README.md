@@ -42,4 +42,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 ![image](https://github.com/user-attachments/assets/c103693b-c100-4321-8eae-2041ed481486)
 
 ## Projeto 3: Venda de casas
+
+https://colab.research.google.com/drive/1MvJDNBEvpx9kpeyz3yYg7jWx5ZqMqz6X?authuser=0#scrollTo=SpC2Bn4oYd8w
+
 ![image](https://github.com/user-attachments/assets/99aa7114-b30e-4731-9b81-3143d8806105)

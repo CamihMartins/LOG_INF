@@ -30,4 +30,8 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 ![image](https://github.com/user-attachments/assets/722acb4e-6e58-4ad9-a038-02f36bae5e82)
 
 
+##Projeto 1: Venda de Sorvete
+![image](https://github.com/user-attachments/assets/2c07866b-45e9-4dcd-a5dc-1d68211307ba)
+
+
 

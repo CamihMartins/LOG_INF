@@ -46,3 +46,10 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 https://colab.research.google.com/drive/1MvJDNBEvpx9kpeyz3yYg7jWx5ZqMqz6X?authuser=0#scrollTo=SpC2Bn4oYd8w
 
 ![image](https://github.com/user-attachments/assets/99aa7114-b30e-4731-9b81-3143d8806105)
+
+## Responda:
+## Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+## Qual modelo você usaria? Por quê?
+
+Ambos os modelos são eficazes, mas servem a propósitos diferentes, porém no Colab ficou mais organizado e mais fácil a leitura.
+U saria o modelo do colab

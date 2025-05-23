@@ -44,8 +44,10 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 ## Projeto 3: Venda de casas
 
 https://colab.research.google.com/drive/1MvJDNBEvpx9kpeyz3yYg7jWx5ZqMqz6X?authuser=0#scrollTo=SpC2Bn4oYd8w
-
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/casas.xlsx?d=w1ff2e0cb85384cdcb5ab23157378dcad&csf=1&web=1&e=OViJe4
 ![image](https://github.com/user-attachments/assets/99aa7114-b30e-4731-9b81-3143d8806105)
+![image](https://github.com/user-attachments/assets/7577ea49-01aa-4c97-8d02-68f029ab61da)
+
 
 ## Responda:
 ## Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?

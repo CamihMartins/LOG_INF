@@ -54,4 +54,4 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 ## Qual modelo você usaria? Por quê?
 
 Ambos os modelos são eficazes, mas servem a propósitos diferentes, porém no Colab ficou mais organizado e mais fácil a leitura.
-U saria o modelo do colab
+Eu saria o modelo do colab

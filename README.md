@@ -55,4 +55,18 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 ## Qual modelo você usaria? Por quê?
 
 Ambos os modelos são eficazes, mas servem a propósitos diferentes, porém no Colab ficou mais organizado e mais fácil a leitura.
-Eu saria o modelo do colab
+Eu usaria o modelo do colab
+
+## Projeto 4: Panelas de Pressão
+
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos%20correta.xlsx?d=w2426779582da42e3b8fd4eca297708df&csf=1&web=1&e=FqcyrN
+![image](https://github.com/user-attachments/assets/531f5ec5-5c25-465c-ad4a-8b23dd88785e)
+
+## Projeto 5: Produtos
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos%20correta.xlsx?d=w2426779582da42e3b8fd4eca297708df&csf=1&web=1&e=ESyLhE
+![image](https://github.com/user-attachments/assets/668e7484-3b2d-4940-91d3-85a5115ba68d)
+
+## Projeto 6: Sorvete
+
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos%20correta.xlsx?d=w2426779582da42e3b8fd4eca297708df&csf=1&web=1&e=5n4WdT
+![image](https://github.com/user-attachments/assets/1d60dc80-aa31-47a3-974d-2bc4832d67a0)

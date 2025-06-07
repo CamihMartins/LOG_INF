@@ -70,3 +70,8 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos%20correta.xlsx?d=w2426779582da42e3b8fd4eca297708df&csf=1&web=1&e=5n4WdT
 ![image](https://github.com/user-attachments/assets/1d60dc80-aa31-47a3-974d-2bc4832d67a0)
+
+
+## Power Apps 
+
+![Captura de tela 2025-06-06 210703](https://github.com/user-attachments/assets/e86754ce-14f3-4a12-b841-1fe40fee85e7)

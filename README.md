@@ -73,10 +73,11 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 
 
 ## Power Apps 
-![Captura de tela 2025-06-13 200833](https://github.com/user-attachments/assets/26f368ba-ba10-4a98-8a41-9c0d44c60501)
 
 
-![Captura de tela 2025-06-06 210703](https://github.com/user-attachments/assets/e86754ce-14f3-4a12-b841-1fe40fee85e7)
+https://github.com/user-attachments/assets/332f8ef5-cecb-41c3-af4d-91457e48c34a
+
+
 
 ## Power automate
 ![image](https://github.com/user-attachments/assets/4f8f4cf9-dfc7-4f0f-a25a-c78f29b6b400)

@@ -73,7 +73,8 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 
 
 ## Power Apps 
-https://make.powerapps.com/e/1f570c64-9e70-e8ff-b8cc-2796032463e0/canvas/?action=app-from-table&entity-logical-name=cr803_tabelasdefrete&entity-set-name=cr803_tabelasdefretes&solution-id=00000001-0000-0000-0001-00000000009b&app-name=Tabelas%20de%20Frete&type=Blank&q=TABELA%2B1&referrer=CreatePage 
+![Captura de tela 2025-06-13 200833](https://github.com/user-attachments/assets/26f368ba-ba10-4a98-8a41-9c0d44c60501)
+
 
 ![Captura de tela 2025-06-06 210703](https://github.com/user-attachments/assets/e86754ce-14f3-4a12-b841-1fe40fee85e7)
 

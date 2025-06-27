@@ -91,3 +91,7 @@ https://github.com/user-attachments/assets/332f8ef5-cecb-41c3-af4d-91457e48c34a
 
 ![image](https://github.com/user-attachments/assets/e45e3cbf-2862-4f82-b827-ccb59ac98c6f)
 
+
+## outra visualização de nossa escolha 
+
+![image](https://github.com/user-attachments/assets/de2888aa-b2d7-44b1-96e3-38c7d6599394)

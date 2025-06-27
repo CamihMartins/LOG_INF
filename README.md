@@ -102,7 +102,11 @@ https://github.com/user-attachments/assets/e2e9204c-693a-48cd-b5f5-d7f75a2c59df
 
 ## outra visualização de nossa escolha 
 
-![image](https://github.com/user-attachments/assets/de2888aa-b2d7-44b1-96e3-38c7d6599394)
+
+
+https://github.com/user-attachments/assets/5baca766-390d-4034-8bc6-0a6ce6c36cda
+
+
 
 
 ## Aplicativo

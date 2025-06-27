@@ -87,3 +87,7 @@ https://github.com/user-attachments/assets/332f8ef5-cecb-41c3-af4d-91457e48c34a
 ##  MAPA mostrando Contagem  de Poço DISTINTOS  por Estado
 ![image](https://github.com/user-attachments/assets/24b8594c-7ecd-4cda-bd32-5389c529b80c)
 
+## Gráfico mostrando Soma de Injeção de Água para Descarte (m³) por Mês
+
+![image](https://github.com/user-attachments/assets/e45e3cbf-2862-4f82-b827-ccb59ac98c6f)
+

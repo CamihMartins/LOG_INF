@@ -84,3 +84,6 @@ https://github.com/user-attachments/assets/332f8ef5-cecb-41c3-af4d-91457e48c34a
 ![image](https://github.com/user-attachments/assets/8a2b7d85-902e-4c6e-8179-79353296c58a)
 ![image](https://github.com/user-attachments/assets/8d13c4a4-d1d5-4fa3-9d52-30fc1e634f81)
 
+##  MAPA mostrando Contagem  de Poço DISTINTOS  por Estado
+![image](https://github.com/user-attachments/assets/24b8594c-7ecd-4cda-bd32-5389c529b80c)
+

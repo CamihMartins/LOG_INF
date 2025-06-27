@@ -93,7 +93,11 @@ https://github.com/user-attachments/assets/76eed0a7-1eab-4d37-9ffe-2633371184f9
 
 ## Gráfico mostrando Soma de Injeção de Água para Descarte (m³) por Mês
 
-![image](https://github.com/user-attachments/assets/e45e3cbf-2862-4f82-b827-ccb59ac98c6f)
+
+
+https://github.com/user-attachments/assets/e2e9204c-693a-48cd-b5f5-d7f75a2c59df
+
+
 
 
 ## outra visualização de nossa escolha 
